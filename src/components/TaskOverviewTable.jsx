@@ -1,8 +1,8 @@
 import React from 'react'
 const employees = [
-  { name: "Amit", newTask: 1, active: 1, completed: 0, failed: 0 },
-  { name: "Priya", newTask: 1, active: 1, completed: 1, failed: 0 },
-  { name: "Rohit", newTask: 1, active: 2, completed: 0, failed: 1 },
+  { name: "Abhishek", newTask: 1, active: 1, completed: 0, failed: 0 },
+  { name: "Rohit", newTask: 1, active: 1, completed: 1, failed: 0 },
+  { name: "Hemant", newTask: 1, active: 2, completed: 0, failed: 1 },
   { name: "Neha", newTask: 1, active: 2, completed: 0, failed: 0 },
   { name: "Vikram", newTask: 0, active: 2, completed: 1, failed: 0 },
 ];
